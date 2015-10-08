@@ -1,0 +1,97 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+/* HEADER */
+
+.header {
+	border-bottom: 5px solid #bcbbbb;
+	padding: 3em 0 1em 0;
+}
+
+.header img {
+	border-radius: 100%;
+	padding: 20px;
+	border: 5px solid #f8981c;
+}
+
+.brand-wrapper {
+	color: #747704;
+	font-weight: 100;
+	text-align: right;
+}
+
+.brand-wrapper h1,
+.brand-wrapper h2 {
+	margin: 0;
+}
+
+.brand-wrapper h1 {
+	font-size: 3.5em;
+}
+
+.brand-wrapper h2 {
+	font-weight: 700;
+}
+
+.brand-wrapper ul {
+	margin: 0;
+	padding: 0;
+}
+
+.brand-wrapper ul li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 0 0.5em;
+	font-size: 0.9em;
+}
+
+.brand-wrapper ul li:last-child {
+	padding-right: 0;
+}
+
+.brand-wrapper ul li i {
+	color: #444;
+}
+
+.brand-wrapper ul li a {
+	color: #bcbbbb;
+}
+/* HERO */
+
+.hero {
+	margin: 2em 0;
+}
+
+.hero img {
+	width: 100%;
+}
+
+/* FEATURED WORK */
+
+.featured h3 {
+	font-size: 2.5em;
+	color: #aaa;
+	margin: 0;
+	padding: 0 0.5em;
+}
+
+.works,
+.works a {
+	text-align: center;
+	color: #444;
+}
+
+.works img {
+	width: 100%;
+}
+
+.works p {
+	margin: 0;
+	font-size: 2.5em;
+}
+
+.works a {
+	display: inline-block;
+	margin-bottom: 1em;
+}

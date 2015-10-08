@@ -1,0 +1,26 @@
+/* DIDN'T BUILD MOBILE FIRST. MUCH REGRET */
+
+@media screen and (max-width: 767px) {
+
+	/* HEADER */
+
+	.header {
+		padding-top: 1em;
+	}
+
+	.logo-wrapper,
+	.brand-wrapper {
+		text-align: center;
+	}
+
+	.brand-wrapper h1 {
+		font-size: 3em;
+	}
+
+	/* HERO */
+
+	.hero .col-sm-12 {
+		padding: 0;
+	}
+
+}
