@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+h1 {
+	background-color:#33bebe;
+}
+
+.app {
+	display: flex;
+	display: -webkit-flex;
+}
+
+.description {
+	color: #7c8b88;
+	max-width: 705px;
+	margin-left: 20px;
+}
+
+.screenshot {
+	max-width: 460px;
+}
